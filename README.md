@@ -2,5 +2,7 @@
 music for octopuses
 
 ## music genres
-**rock**
-*italic*
+*rock*
+*jazz*
+*hip-hop*
+*pop*
